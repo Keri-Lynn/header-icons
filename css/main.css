@@ -1,0 +1,35 @@
+html {
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #d05c2e;
+}
+
+img {
+  max-width: 40px;
+}
+
+ul {
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  display: inline-block;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
